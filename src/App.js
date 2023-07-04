@@ -2,6 +2,7 @@ import React, { Suspense } from "react";
 import { Canvas } from "react-three-fiber";
 import styled from "styled-components";
 import Earth from "./components/eartrh/Earth";
+import "./styles/style.css"
 
 const CanvasContainer = styled.div`
   width: 100%;
